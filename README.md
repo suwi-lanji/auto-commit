@@ -1,4 +1,4 @@
-# Git Auto-Commit Bot
+# Git Auto-Commit
 
 A tool to monitor a directory for changes and automatically commit them to a Git repository.
 

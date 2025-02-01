@@ -2,7 +2,7 @@ import logging
 
 def setup_logger():
     """
-    Set up a basic logger.
+    Set up a basic logger. (editted).
     """
     logging.basicConfig(
         level=logging.INFO,

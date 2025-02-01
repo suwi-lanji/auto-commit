@@ -7,6 +7,7 @@ setup(
     install_requires=[
         "watchdog",
         "GitPython",
+        "google-generativeai",
     ],
     entry_points={
         "console_scripts": [
